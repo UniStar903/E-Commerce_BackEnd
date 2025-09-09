@@ -19,6 +19,7 @@ Java 20
 
 Setup Instructions
 1. Clone the repository
+   
 git clone https://github.com/UniStar903/E-Commerce_BackEnd.git
 
 cd e-commerce-backend
